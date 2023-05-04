@@ -12,7 +12,7 @@ An overview of the approache are discussed below:
 
 * Pre-processing: Sentence splitting and context preservation
 * LM-based Classification: Employing fine-tuned Language Models for each to predict whether or not a given input provision has some occurrence of concepts.
-* Keyword-based Classification: Identifying too sparse concepts with the keywords listed in https://github.com/shabnamhasani/FSR/tree/main/Data
+* Keyword-based Classification: Identifying too sparse concepts with the keywords listed in https://github.com/AnonymousASE23/FSR/tree/main/Data
 * Label Prediction: producing the final label recommendations for each provision. 
 
 
