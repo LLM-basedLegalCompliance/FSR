@@ -30,13 +30,16 @@
     
 * Data: contains our datasets including qualitative data derived from our qualitative coding as well as data curated from third-parties and used as test data in our evaluation. This folder furthur contains the keywordsets used for classifying scarce labels. Here we also provide a list of SFCR parts excluded form our qualitative study because these parts were not related to food products.
 
-### Instructions to run the proposed algorithms
+### Execution Instructions
 
-* Create a python environment with the packages listed in: FSR/Code/RQ1/Requirement.txt
-* Open the environment and proceed to FSR main folder FSR/Code/RQ1 and execute the code BERTbase.py
+* Create a python environment with the packages listed in: FSR/Code/RQ1/requirement.txt
+* Open the environment and proceed to FSR main folder FSR/Code/RQ1 
+* Set the path to data 
+* Execute the code BERTbase.py
 
 ## Version History
 
 Initial Release
 
 ## Acknowledgments
+Redacted for double-anonymous review
