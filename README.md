@@ -1,4 +1,4 @@
-# FSR
+# Replication Package
 Automated Classification of Requirements-related Provisions in Food-safety Regulations
 
 ## Description
