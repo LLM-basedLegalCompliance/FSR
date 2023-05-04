@@ -7,7 +7,7 @@ In this paper, we present two contributions aimed at enhancing food-safety class
 An overview of the approache are discussed below:
 
 <p align="center">
-  <img src="https://github.com/shabnamhasani/FSR/blob/main/approach.png" width="550" height="200" class="centerImage" />
+  <img src="https://github.com/AnonymousASE23/FSR/blob/main/approach.png" width="550" height="200" class="centerImage" />
 </p>
 
 * Pre-processing: Sentence splitting and context preservation
