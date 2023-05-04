@@ -1,19 +1,5 @@
 # Replication Package for ASE'23 Submission #431: Automated Classification of Requirements-related Provisions in Food-safety Regulations
 
-## Description
-
-In this paper, we present two contributions aimed at enhancing food-safety classification. First, we propose a conceptual characterization of food-safety concepts that are closely related to system and software requirements. Second, we develop a BERT-based approach for automatically classifying legal provisions based on these requirements-related food-safety concepts. We conduct an empirical evaluation of our classification approach, using various BERT variants such as BERT large, RoBERTa, and ALBERT, as well as non-transformer models such as BiLSTM and Keyword Search. 
-An overview of the approache are discussed below:
-
-<p align="center">
-  <img src="https://github.com/AnonymousASE23/FSR/blob/main/approach.png" width="550" height="200" class="centerImage" />
-</p>
-
-* Pre-processing: Sentence splitting and context preservation
-* LM-based Classification: Employing fine-tuned Language Models for each to predict whether or not a given input provision has some occurrence of concepts.
-* Keyword-based Classification: Identifying too sparse concepts with the keywords listed in https://github.com/AnonymousASE23/FSR/tree/main/Data
-* Label Prediction: producing the final label recommendations for each provision. 
-
 
 ## Content description
 
