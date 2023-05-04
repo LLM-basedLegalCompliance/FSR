@@ -17,7 +17,7 @@
         └── dfboxplots
 ```
         
-* Code: contains scripts related to the implementation of all the approaches discussed in this study. The folder is divided into three subfolders: RQ1, RQ2, and Supplementary Code.
+* Code: implementations of all the elements discussed in the paper. The folder is divided into three subfolders: RQ1, RQ2, and Supplementary Code.
 
     * RQ1: contains code related to the BERT-based Language Models implemented for answering RQ1 and the prerequisite packages in the requirement.txt file.
     * RQ2: contains code for BiLSTM and Keyword Search baseline models, as well as the prerequisite packages specified in the requirement.txt file.
