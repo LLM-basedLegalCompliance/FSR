@@ -20,7 +20,7 @@
 * Code: implementations of all the elements discussed in the paper. The folder is divided into three subfolders: RQ1, RQ2, and Supplementary Code.
 
     * RQ1: contains code related to the BERT-based Language Models implemented for answering RQ1. The prerequisite packages are listed in the requirement.txt file.
-    * RQ2: contains code for BiLSTM and Keyword Search baseline models, as well as the prerequisite packages specified in the requirement.txt file.
+    * RQ2: contains code for the BiLSTM and Keyword Search baselines. The prerequisite packages are again listed in the requirement.txt file.
     * Supplementary: contains subsidiary codes that support the main analyses presented in this study. This includes scripts for Food Safety Sentence Statistics (retrieves the content of food safety-related URLs and calculates various statistics on the number of sentences found in them, such as the mean, standard deviation, and other relevant metrics), scripts for Classification Evaluation and Significance Testing (takes classification reports as input and generates a dataframe with precision, recall, and f-score values for each label. It then performs statistical significance testing between two models using the generated dataframe) and Boxplot Visualization (uses the second dataframe generated in the previous notebook to create boxplots showcasing the distribution of results).
 
 * Evaluation Results: contains two subfolder namely RQ1 and RQ2. 
