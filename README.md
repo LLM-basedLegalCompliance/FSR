@@ -28,7 +28,7 @@
     
     * RQ2: contains the BiLSTM hyperparameters used in the experiment, statistical significance tests comparing our approach against baselines. Like in RQ1 the dfboxplots subfolder contains the dataframes used for creating boxplots.
     
-* Data: contains our datasets including qualitative data derived from our qualitative coding as well as data curated from third-parties and used as test data in our evaluation. This folder furthur contains the keywordsets used for classifying scarce labels. Here we also provide a list of SFCR parts excluded form our qualitative study because these parts were not related to food products.
+* Data: contains our datasets including qualitative data derived from our qualitative coding as well as data curated from third-parties and used as test data in our evaluation. This folder further contains the keywordsets used for classifying scarce labels. Here we also provide a list of SFCR parts excluded form our qualitative study because these parts were not related to food products.
 
 ### Execution Instructions
 
