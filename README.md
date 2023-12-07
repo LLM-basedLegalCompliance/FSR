@@ -1,4 +1,4 @@
-# Replication Package for ASE'23 Submission #431: Automated Classification of Requirements-related Provisions in Food-safety Regulations
+# Replication Package for RE'24: Classifying Requirements-related Provisions in Food-safety Regulations: An LLM-based Approach
 
 
 ## Content description
