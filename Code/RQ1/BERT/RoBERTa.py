@@ -172,7 +172,7 @@ train = train.reset_index(drop=True)
 test = test.reset_index(drop=True)
 sep_test = sep_test.reset_index(drop=True)
 
-class RoBERTaInputItem(object):#BertInputItem
+class RoBERTaInputItem(object):
     """An item with all the necessary attributes for finetuning BERT."""
 
     def __init__(self, text, input_ids, input_mask, label_id=None):
