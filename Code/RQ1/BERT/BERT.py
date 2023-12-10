@@ -94,7 +94,6 @@ def create_label_indices(df):
     return labelDict
 
 label_indices = create_label_indices(df)
-label_indices
 
 """### Oversampling/UnderSampling"""
 
@@ -457,8 +456,6 @@ def evaluate_entire_data(model, dataloader):
 list_input = df2['Statement'].tolist()
 test_data = list_input
 
-len(df3)
-
 path = 'saved_weights.pt'
 # start_time = time.time()
 checkpoint = torch.load(path)
@@ -532,7 +529,7 @@ test_loader = get_test_loader(test_features, config.max_seq_len, config.bs, shuf
 model.cuda()
 print(evaluate_entire_data(model,test_loader))
 
-"""####Second method for prediction [this method is slower compared to the firs one but provides good chance for individual observations]"""
+"""####method for prediction [this method is slower compared to the first one but provides good chance for individual observations]"""
 
 class Prediction:
     def __init__(self):
@@ -579,6 +576,3 @@ for item in list_input:
     pred_val = pred.predict(item)
     print(pred_val)
 
-"""###### Modified the code from : https://github.com/tobhey/NoRBERT/blob/master/Code/Task1_to_3_original_Promise_NFR_dataset/Task1_F_NFR_classification.ipynb
-
-"""
