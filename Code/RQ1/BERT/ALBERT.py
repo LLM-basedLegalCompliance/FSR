@@ -85,8 +85,8 @@ def load_data(filename):
 
   return df
 
-df1 = load_data('path to SFCR.xlsx')
-df2= load_data('path to Annotation.xlsx')
+df1 = load_data('Data/SFCR.xlsx')
+df2= load_data('Data/Annotation.xlsx')
 df=df1.append(df2)
 
 df = pd.concat([df])[['Statement',config_data.label_column]]
