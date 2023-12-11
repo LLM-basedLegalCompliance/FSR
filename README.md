@@ -36,10 +36,12 @@
 
 ### Execution Instructions
 
-* Create a python environment with the packages listed in: FSR/Code/RQ1/requirement.txt
-* Open the environment and proceed to FSR main folder FSR/Code/RQ1 
-* Set the path to data 
+* Create a python environment with the packages listed in: FSR/Code/RQ1/BERT/requirement.txt or FSR/Code/RQ1/GPT/requirement.txt
+* Open the environment and proceed to FSR main folder FSR/Code/RQ1/BERT or FSR/Code/RQ1/GPT
 * Execute the code BERTbase.py
+* Set your OpenAI key in the GPT.py
+* Execute the code GPT.py
+ 
 
 ## Version History
 
