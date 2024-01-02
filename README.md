@@ -39,9 +39,11 @@
 * Create a python environment with the packages listed in: FSR/Code/RQ1/BERT/requirement.txt or FSR/Code/RQ1/GPT/requirement.txt
 * Open the environment and proceed to FSR main folder FSR/Code/RQ1/BERT or FSR/Code/RQ1/GPT
 * Execute the code BERTbase.py
-* Set your OpenAI key in the GPT.py
+* For GPT experiments, set your OpenAI key in the GPT.py
 * Execute the code GPT.py
- 
+  
+* For baseline experiments, create a python environment with the packages listed in: FSR/Code/RQ2/requirement.tx
+* For BiLSTM experiments you need to download glove.840B.300d and update zip_file = "path to glove.840B.300d.txt.zip" in BiLSTM.py 
 
 ## Version History
 
