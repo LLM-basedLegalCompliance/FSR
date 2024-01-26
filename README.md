@@ -32,7 +32,7 @@
     
     * RQ2: contains Precision, Recall and F-Score for baselines, BiLSTM hyperparameters used in the experiment, statistical significance tests comparing BERT and GPT against baselines. Like in RQ1 the dfboxplots subfolder contains the dataframes used for creating boxplots.
     
-* Data: contains our datasets including qualitative data derived from our qualitative coding as well as data curated from third-parties and used as test data in our evaluation. This folder further contains the keywordsets used for classifying scarce labels. Here we also provide a list of SFCR parts excluded form our qualitative study because these parts were not related to food products. We also provide here the prompt for our zero-shot learning experiments.
+* Data: contains our datasets including qualitative data derived from our qualitative coding as well as data curated from third-parties and used as test data in our evaluation (with and without paragraph-level text). This folder further contains the keywordsets used for classifying scarce labels. Here we also provide a list of SFCR parts excluded form our qualitative study because these parts were not related to food products. We also provide here the prompt for our zero-shot learning experiments.
 
 ### Execution Instructions
 
