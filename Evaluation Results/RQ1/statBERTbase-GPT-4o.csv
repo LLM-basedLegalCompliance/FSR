@@ -1,0 +1,28 @@
+,Label,Metric,A12,P-value
+0,Measurement,Precision,"(0.06000000000000005, 'Large')",1.928120924930404e-06
+1,Measurement,Recall,"(0.29500000000000004, 'Medium')",0.026547517115491904
+2,Measurement,F-score,"(0.0024999999999999467, 'Large')",7.32676819947719e-08
+3,Temperature,Precision,"(0.92, 'Large')",5.50880416974011e-06
+4,Temperature,Recall,"(0.20999999999999996, 'Large')",0.0017021498338632287
+5,Temperature,F-score,"(0.5625, 'negligible')",0.4988805190741191
+6,Mass,Precision,"(0.2975, 'Medium')",0.028447652543975684
+7,Mass,Recall,"(0.022499999999999964, 'Large')",2.3843274880841985e-07
+8,Mass,F-score,"(0.0, 'Large')",6.301848221392269e-08
+9,Size,Precision,"(0.20875, 'Large')",0.0016252575462520652
+10,Size,Recall,"(0.275, 'Large')",0.014912049655215934
+11,Size,F-score,"(0.12, 'Large')",3.929035827884623e-05
+12,Time Constraint,Precision,"(0.5225, 'negligible')",0.8076561934993387
+13,Time Constraint,Recall,"(0.06499999999999995, 'Large')",2.517398557413545e-06
+14,Time Constraint,F-score,"(0.08999999999999997, 'Large')",9.15545783239678e-06
+15,Non-labelData,Precision,"(0.3275, 'Medium')",0.061977574433805
+16,Non-labelData,Recall,"(0.04749999999999999, 'Large')",9.77741818743726e-07
+17,Non-labelData,F-score,"(0.10375000000000001, 'Large')",1.8074477738835562e-05
+18,LabelData,Precision,"(0.7625, 'Large')",0.00450768696272093
+19,LabelData,Recall,"(0.0, 'Large')",6.301848221392269e-08
+20,LabelData,F-score,"(0.0, 'Large')",6.301848221392269e-08
+21,Data,Precision,"(0.865, 'Large')",7.837581216557415e-05
+22,Data,Recall,"(0.050000000000000044, 'Large')",1.1215531208317287e-06
+23,Data,F-score,"(0.12, 'Large')",3.929035827884623e-05
+24,Overall,Precision,"(0.1875, 'Large')",0.0007215393720029193
+25,Overall,Recall,"(0.45499999999999996, 'negligible')",0.6263280630826087
+26,Overall,F-score,"(0.20750000000000002, 'Large')",0.001551573649444107
