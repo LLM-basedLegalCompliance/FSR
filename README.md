@@ -41,7 +41,7 @@
 * Open the environment and proceed to FSR main folder FSR/Code/RQ1/BERT, FSR/Code/RQ1/GPT, or FSR/Code/RQ1/Llama-Mixtral
 * For BERT experiments, execute the code BERTbase.py
 * For GPT experiments, set your OpenAI key, model name in the GPT.py and execute the code GPT.py
-* For Llama or Mixtra experiments, pease create a Hugging Face account, create new token and make sure the token has read permissions for these models, accept the models' terms by clicking on the request access button on hte models' webpages. Set your access token in the code MIxtral.py or Llama.py. Downoald Mixtral_V1 file 
+* For Llama or Mixtra experiments, please create a Hugging Face account, create new token and give token the read access permissions for these models, accept the models' terms by clicking on the request access button on the models' webpages in Hugging Face. Set your access token in the code Mixtral.py or Llama.py. Downoald Mixtral_V1 file or Llama_V1 and update the output_dir in training_arguments in Mixtral.py or Llama.py.
   
   
 * For baseline experiments, create a python environment with the packages listed in: FSR/Code/RQ2/requirement.tx
