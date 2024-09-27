@@ -19,7 +19,7 @@ from huggingface_hub import login
 
 #New token created for llama3 experiements in EMSE paper
 login(token="")
-access_token="h"
+access_token=""
 
 #Checkpoints
 llama_checkpoint = "meta-llama/Meta-Llama-3-8B-Instruct"
@@ -212,7 +212,7 @@ trainer = SFTTrainer(
         args=training_arguments,
         tokenizer=tokenizer,
         packing=False,
-		max_seq_length=4096
+	max_seq_length=4096
 )
 
 # trainer.train()
