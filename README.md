@@ -1,4 +1,4 @@
-# Replication Package for EMSE2024: Classifying Requirements-related Provisions in Food-safety Regulations: An LLM-based Approach
+# Replication Package for EMSE2024: An Empirical Study on LLM-based Classification of Requirements-related Provisions in Food-safety Regulation
 
 
 ## Content description
